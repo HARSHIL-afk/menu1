@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #5F0F40;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    color: #FB8B24;
+    font-size: 50px;
+    text-shadow: 10px 10px 10px black;
+}
